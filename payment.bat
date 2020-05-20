@@ -1,0 +1,1 @@
+echo "This is from Developer 2 new branch"
